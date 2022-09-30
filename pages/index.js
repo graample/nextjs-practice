@@ -13,10 +13,10 @@ export default function Home() {
           Hello, I'm <b>Raymond</b>. I'm a software engineer! You can contact me on {' '}
           <a href="https://www.linkedin.com/in/raymond-haesik-yee/">LinkedIn</a>.
         </p>
-        <p>
+        {/* <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        </p> */}
       </section>
     </Layout>
   );
